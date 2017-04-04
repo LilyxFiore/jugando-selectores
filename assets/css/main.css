@@ -1,0 +1,12 @@
+*{  font-family: 'Acme', sans-serif; }
+div{
+  width: 80%;
+}
+
+h1{
+  color:rgb(247, 71, 32)
+}
+
+table{
+  border: 2px solid rgb(6, 88, 130);
+}
