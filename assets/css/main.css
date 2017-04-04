@@ -1,12 +1,31 @@
-*{  font-family: 'Acme', sans-serif; }
-div{
+*{  font-family: 'Raleway', sans-serif; }
+
+body{
   width: 80%;
+  margin: auto;
+  margin-top: 40px;
+  text-align: center;
 }
 
-h1{
-  color:rgb(247, 71, 32)
+h1{ color: #f74720;}
+h2 {color: #1b6e64;}
+h3{ color: #835106;}
+h4{ color: #b41616;}
+
+p{  color: #955810; }
+
+table{ margin: 0 auto;}
+tr, td{
+  background-color: #d28a55;
+  padding: 9px;
+  font-weight: bolder;
 }
 
-table{
-  border: 2px solid rgb(6, 88, 130);
+div{
+  text-align: center;
+}
+
+span{
+  color: #31065b;
+  font-weight: bolder;
 }
